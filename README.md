@@ -17,6 +17,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=HTML5&logoColor=fff)
 ![Vue](https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=Vue.js&logoColor=fff)
 ![Shell](https://img.shields.io/badge/-Shell-4eaa25?style=flat-square&logo=gnu%20bash&logoColor=fff)
+![Assembly](https://img.shields.io/badge/-Assembly-2e3a44?style=flat-square&logo=assemblyscript&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=fff)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown&logoColor=fff)
 
 ## 🔦 Research area
 
@@ -44,7 +47,8 @@
 ## 📱 Devices in Use
 
 ![iPhone 12](https://img.shields.io/badge/iPhone%2012-000000?style=flat-square&logo=apple&logoColor=ffffff)
-![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro-333333?style=flat-square&logo=apple&logoColor=ffffff)
+![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 ![X86 Server](https://img.shields.io/badge/X86%20Server-121011?style=flat-square&logo=serverfault&logoColor=ffffff)
 
 🤔 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
