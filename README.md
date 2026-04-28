@@ -6,6 +6,7 @@
 - zh-CN / en-US
 - Founder / Programmer / Developer / Coder / Engineer / DevOps
 - Illustrator of ACG / Animator
+- Research worker
 
 ## 🌱 Programming Languages
 
@@ -24,9 +25,9 @@
 ## 🔦 Research area
 
 * AIGC Content Safety & Algorithmic Ethics
+* [GAHT](https://en.wikipedia.org/wiki/Gender-affirming_hormone_therapy) Research (Endocrinology and Biochemistry Directions)
 * Go & Rust Interoperability
 * High-Performance Networking
-* Observable System Design
 * Computer Graphics & Animation Rendering
 
 ## 📫 Get in Touch
