@@ -6,7 +6,7 @@
 - zh-CN / en-US
 - Founder / Programmer / Developer / Coder / Engineer / DevOps
 - Illustrator of ACG / Animator
-- Research worker
+- Biochemistry research worker
 
 ## 🌱 Programming Languages
 
