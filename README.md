@@ -32,7 +32,7 @@
 
 ## 📫 Get in Touch
 
-[![BiliBili](https://img.shields.io/badge/-立方橙lfcypo-00a1d6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/1265473007)
+[![BiliBili](https://img.shields.io/badge/-lfcypo-00a1d6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/1265473007)
 
 ## 💻 Working Environment
 
