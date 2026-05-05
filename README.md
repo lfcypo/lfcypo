@@ -30,6 +30,13 @@
 * High-Performance Networking
 * Computer Graphics & Animation Rendering
 
+## 👝 Work 
+
+* Shanghai Candy Rectangle Technology Co., Ltd.
+* Luminous Fruit Cube AnimationTech Studio
+* lfcypo`s Biochemistry Lab
+* IT Department, Guangzhou No.1 Middle School
+
 ## 📫 Get in Touch
 
 [![BiliBili](https://img.shields.io/badge/-lfcypo-00a1d6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/1265473007)
