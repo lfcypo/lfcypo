@@ -4,7 +4,7 @@
 
 - Chinese
 - zh-CN / en-US
-- Founder / Programmer / Developer / Coder / Engineer / DevOps
+- Founder / Programmer / Developer / Coder / Engineer
 - Illustrator of ACG / Animator
 - Biochemistry research worker
 
@@ -30,12 +30,12 @@
 * High-Performance Networking
 * Computer Graphics & Animation Rendering
 
-## 👝 Work 
+## 👝 Roles & Affiliations
 
-* Shanghai Candy Rectangle Technology Co., Ltd.
-* Luminous Fruit Cube AnimationTech Studio
-* lfcypo`s Biochemistry Lab
-* IT Department, Guangzhou No.1 Middle School
+* Co-Founder & CTO, Shanghai Candy Rectangle Technology Co., Ltd.
+* Founder & Illustrator, Luminous Fruit Cube Animation Tech Studio
+* Researcher, lfcypo's Biochemistry Lab
+* Deputy Director, IT Department, Guangzhou No.1 Middle School
 
 ## 📫 Get in Touch
 
@@ -58,5 +58,3 @@
 ![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 ![X86 Server](https://img.shields.io/badge/X86%20Server-121011?style=flat-square&logo=serverfault&logoColor=ffffff)
-
-🤔 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button.
