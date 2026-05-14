@@ -5,8 +5,8 @@
 - Chinese
 - zh-CN / en-US
 - Founder / Programmer / Developer / Coder / Engineer
-- Illustrator of ACG / Animator
 - Biochemistry research worker
+- Illustrator of ACG / Animator
 
 ## 🌱 Programming Languages
 
