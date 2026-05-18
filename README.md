@@ -35,6 +35,7 @@
 * Co-Founder & CTO, Shanghai Candy Rectangle Technology Co., Ltd.
 * Founder & Illustrator, Luminous Fruit Cube Animation Tech Studio
 * Researcher, lfcypo's Biochemistry Lab
+* Developer, PawTech
 * Deputy Director, IT Department, Guangzhou No.1 Middle School
 
 ## 📫 Get in Touch
