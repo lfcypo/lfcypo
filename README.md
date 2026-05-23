@@ -24,11 +24,11 @@
 
 ## 🔦 Research area
 
-* AIGC Content Safety & Algorithmic Ethics
-* Gender-affirming hormone therapy (GAHT) Research (Endocrinology and Biochemistry Directions)
-* Go & Rust Interoperability
-* High-Performance Networking
-* Computer Graphics & Animation Rendering
+* 💎 AIGC Content Safety & Algorithmic Ethics
+* 🍥 Gender-affirming hormone therapy (GAHT) Research (Endocrinology and Biochemistry Directions)
+* 🦀 Go & Rust Interoperability
+* 🌍 High-Performance Networking
+* 🎨 Computer Graphics & Animation Rendering
 
 ## 👝 Roles & Affiliations
 
