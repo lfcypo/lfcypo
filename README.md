@@ -41,6 +41,7 @@
 ## 📫 Get in Touch
 
 [![BiliBili](https://img.shields.io/badge/-lfcypo-00a1d6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/1265473007)
+[![X](https://img.shields.io/badge/-lfcypo-000000?style=flat-square&logo=X&logoColor=white)](https://x.com/lfcypo)
 
 ## 💻 Working Environment
 
