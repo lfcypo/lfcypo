@@ -1,7 +1,5 @@
 # lfcypo 
 
-### Hi there 👋
-
 - Chinese
 - zh-CN / en-US
 - Founder / Programmer / Developer / Coder / Engineer
