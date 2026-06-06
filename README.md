@@ -4,7 +4,6 @@
 - zh-CN / en-US
 - Founder / Programmer / Developer / Coder / Engineer
 - Physiology & Biochemistry Research Worker
-- Illustrator of ACG / Animator
 
 ## 🌱 Programming Languages
 
