@@ -30,8 +30,8 @@
 ## 👝 Roles & Affiliations
 
 * Co-Founder & CTO, Shanghai Candy Rectangle Technology Co., Ltd.
+* Technical Consultant, Jinan Paw Technology Co., Ltd.
 * Founder & Illustrator, Luminous Fruit Cube Animation Tech Studio
-* Technical Consultant, PawTech
 * Researcher, lfcypo's Biochemistry Lab
 * Deputy Director, IT Department, Guangzhou No.1 Middle School
 
