@@ -33,6 +33,7 @@
 * Technical Consultant, Jinan Paw Technology Co., Ltd.
 * Founder & Illustrator, Luminous Fruit Cube Animation Tech Studio
 * Researcher, lfcypo's Biochemistry Lab
+* Member, SharpDotNUT
 * Deputy Director, IT Department, Guangzhou No.1 Middle School
 
 ## 📫 Get in Touch
