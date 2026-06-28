@@ -44,6 +44,7 @@
 ## 💻 Working Environment
 
 ![macOS 15.6](https://img.shields.io/badge/macOS%2015.6-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![iOS 26.5](https://img.shields.io/badge/iOS%2026.5-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![iOS 18.6.2](https://img.shields.io/badge/iOS%2018.6.2-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=flat-square&logo=window&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=flat-square&logo=window&logoColor=white)
@@ -54,7 +55,8 @@
 
 ## 📱 Devices in Use
 
-![iPhone 12](https://img.shields.io/badge/iPhone%2012-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![MacBook Pro](https://img.shields.io/badge/MacBook%20Pro-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![iPhone 12](https://img.shields.io/badge/iPhone%2012-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![iPhone 8](https://img.shields.io/badge/iPhone%208-000000?style=flat-square&logo=apple&logoColor=ffffff)
 ![Raspberry Pi 5](https://img.shields.io/badge/Raspberry%20Pi%205-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 ![X86 Server](https://img.shields.io/badge/X86%20Server-121011?style=flat-square&logo=serverfault&logoColor=ffffff)
