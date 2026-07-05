@@ -3,7 +3,7 @@
 - Chinese
 - zh-CN / en-US
 - Founder / Programmer / Developer / Coder / Engineer
-- Physiology & Biochemistry Research Worker
+- Medical student of clinical medicine
 
 ## 🌱 Programming Languages
 
@@ -21,11 +21,18 @@
 
 ## 🔦 Research area
 
+#### 💻 Computer Science & Technology
+
 * 💎 AIGC Content Safety & Algorithmic Ethics
-* 🍥 Gender-affirming hormone therapy ([GAHT](https://en.wikipedia.org/wiki/Gender-affirming_hormone_therapy)) Research (MtF, Endocrinology and Biochemistry Directions)
 * 🦀 Go & Rust Interoperability
 * 🌍 High-Performance Networking
 * 🎨 Computer Graphics & Animation Rendering
+
+#### 🩺 Clinical Medicine (Gonadal Endocrinology Subspecialty)
+
+* 🍥 Gender-affirming hormone therapy (GAHT) Research
+* 🧬 Disorders of Sex Development (DSD) Research
+* 🩸 Other Endocrine, Metabolic and Gynecological Diseases
 
 ## 👝 Roles & Affiliations
 
