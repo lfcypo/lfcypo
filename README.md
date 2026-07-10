@@ -1,9 +1,10 @@
 # lfcypo 
 
-- Chinese
-- zh-CN / en-US
-- Founder / Programmer / Developer / Coder / Engineer
-- Medical student of clinical medicine
+* 🚀 Chinese
+* 🏠 zh-CN / en-US
+* 💻 Founder / Programmer / Developer / Coder / Engineer
+* 💉 Medical student of clinical medicine
+* 🏳️‍⚧️ MtF
 
 ## 🌱 Programming Languages
 
@@ -39,7 +40,6 @@
 * Co-Founder & CTO, Shanghai Candy Rectangle Technology Co., Ltd.
 * Technical Consultant, Jinan Paw Technology Co., Ltd.
 * Founder & Illustrator, Luminous Fruit Cube Animation Tech Studio
-* Researcher, lfcypo's Biochemistry Lab
 * Member, SharpDotNUT
 * Deputy Director, IT Department, Guangzhou No.1 Middle School
 
