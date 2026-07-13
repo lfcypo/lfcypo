@@ -3,7 +3,7 @@
 * 🚀 Chinese
 * 🏠 zh-CN / en-US
 * 💻 Founder / Programmer / Developer / Coder / Engineer
-* 💉 Medical student of clinical medicine
+* 💉 Preparing to be a medical student of clinical medicine
 * 🏳️‍⚧️ MtF
 
 ## 🌱 Programming Languages
