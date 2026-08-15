@@ -4,7 +4,6 @@
 * 🏠 zh-CN / en-US
 * 💻 Founder / Programmer / Developer / Coder / Engineer
 * 💉 Preparing to be a medical student of clinical medicine
-* 🏳️‍⚧️ MtF
 
 ## 🌱 Programming Languages
 
@@ -25,7 +24,8 @@
 #### 💻 Computer Science & Technology
 
 * 💎 AIGC Content Safety & Algorithmic Ethics
-* 🦀 Go & Rust Interoperability
+* 🎁 Companion‑Type AI Agent Research
+* 🦀 Go/Rust Interoperability
 * 🌍 High-Performance Networking
 * 🎨 Computer Graphics & Animation Rendering
 
@@ -38,9 +38,7 @@
 ## 👝 Roles & Affiliations
 
 * Co-Founder & CTO, Shanghai Candy Rectangle Technology Co., Ltd.
-* Technical Consultant, Jinan Paw Technology Co., Ltd.
 * Founder & Illustrator, Luminous Fruit Cube Animation Tech Studio
-* Member, SharpDotNUT
 * Deputy Director, IT Department, Guangzhou No.1 Middle School
 
 ## 📫 Get in Touch
