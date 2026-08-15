@@ -1,9 +1,9 @@
 # lfcypo 
 
-* 🚀 Chinese
-* 🏠 zh-CN / en-US
-* 💻 Founder / Programmer / Developer / Coder / Engineer
-* 💉 Preparing to be a medical student of clinical medicine
+- 🚀 Chinese
+- 🏠 zh-CN / en-US
+- 💻 Founder / Programmer / Developer / Coder / Engineer
+- 💉 Preparing to be a medical student of clinical medicine
 
 ## 🌱 Programming Languages
 
@@ -23,23 +23,24 @@
 
 #### 💻 Computer Science & Technology
 
-* 💎 AIGC Content Safety & Algorithmic Ethics
-* 🎁 Companion‑Type AI Agent Research
-* 🦀 Go/Rust Interoperability
-* 🌍 High-Performance Networking
-* 🎨 Computer Graphics & Animation Rendering
+- 💎 AIGC Content Safety & Algorithmic Ethics
+- 🎁 Companion‑Type AI Agent Research
+- 🦀 Go/Rust Interoperability
+- 🌍 High-Performance Networking
+- 🎨 Computer Graphics & Animation Rendering
 
-#### 🩺 Clinical Medicine (Gonadal Endocrinology Subspecialty)
+#### 🩺 Clinical Medicine (Gynecology and Gonadal Endocrinology)
 
-* 🍥 Gender-affirming hormone therapy (GAHT) Research
-* 🧬 Disorders of Sex Development (DSD) Research
-* 🩸 Other Endocrine, Metabolic and Gynecological Diseases
+- 🍥 Gender-affirming hormone therapy (GAHT) Research
+- 🧬 Disorders of Sex Development (DSD) Research
+- 🩹 Laparoscopic Surgery
+- 🩸 Other Endocrine, Metabolic and Gynecological Diseases
 
 ## 👝 Roles & Affiliations
 
-* Co-Founder & CTO, Shanghai Candy Rectangle Technology Co., Ltd.
-* Founder & Illustrator, Luminous Fruit Cube Animation Tech Studio
-* Deputy Director, IT Department, Guangzhou No.1 Middle School
+- Co-Founder & CTO, Shanghai Candy Rectangle Technology Co., Ltd.
+- Founder & Illustrator, Luminous Fruit Cube Animation Tech Studio
+- Deputy Director, IT Department, Guangzhou No.1 Middle School
 
 ## 📫 Get in Touch
 
