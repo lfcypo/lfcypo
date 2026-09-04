@@ -1,7 +1,7 @@
 # lfcypo 
 
 - 🚀 Chinese
-- 🏠 zh-CN / en-US
+- 🌏 zh-CN / en-US / th-TH
 - 💻 Founder / Programmer / Developer / Coder / Engineer
 - 💉 Preparing to be a medical student of clinical medicine
 
